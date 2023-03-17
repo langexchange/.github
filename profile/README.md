@@ -18,7 +18,7 @@ Features:
 
 # Architecture
 
-![image](https://github.com/langexchange/.github/images/architecture.png)
+![image](https://github.com/langexchange/.github/blob/main/images/architecture.png)
 
 
 # Tech stack
