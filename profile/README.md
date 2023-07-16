@@ -44,7 +44,7 @@ We are also considering an enhanced recommendation system that can suggest frien
 2. Media sharing: Images, documents, or especially audio can be shared to take advantage of collaboratively correction features by which another user can correct the user's pronunciation errors.
 3. Pronunciation assessment chatbot: As mentioned above.
 4. Display option: Users can use the chat feature in overlayed or fullscreen mode.
-#### Other associated features
+#### Other auxiliary features
 1. Notifications: Basic notifications about users' actions (friends' posts, invitations) on the app, especially monthly summaries of the user learning progress informed here.
 2. Dictionary: Users can use a dictionary associated with the app to search words directly whenever they encounter new words on the app.
 
