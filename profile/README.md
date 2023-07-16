@@ -28,7 +28,7 @@ This project was developed as part of the graduation thesis course at Ho Chi Min
 1. Collaboratively correction: Language text on posts and personal messages (using in chatting app) can be corrected by another user in the community (such as grammar or semantic errors).
 2. Pronunciation assessment chatbot: helps assess pronunciation performance in almost all kinds of language. See more in the  [chatbot repo](https://github.com/langexchange/lec-chatbot).
 3. Vocabulary deck sharing: A user can creatively create a vocabulary deck which then can be shared with the community. Once the deck is shared, it can be collected by another user for further learning.
-4. Vocabulary learning: Collected vocabulary decks can be learned later. The learning methodology applied is space repetition using the [Suppermemo](https://www.supermemo.com/en) algorithm, which helps the user to effectively recall a vocabulary card by predicting a suitable time at which the card should appear to recall again in the future. This can be achieved by using a formula that is implied from studying the human brain. [See more] (https://en.wikipedia.org/wiki/SuperMemo).
+4. Vocabulary learning: Collected vocabulary decks can be learned later. The learning methodology applied is space repetition using the [Suppermemo](https://www.supermemo.com/en) algorithm, which helps the user to effectively recall a vocabulary card by predicting a suitable time at which the card should appear to recall again in the future. This can be achieved by using a formula that is implied from studying the human brain. [See more](https://en.wikipedia.org/wiki/SuperMemo).
 
 ### Common features:
 #### Personal information page
