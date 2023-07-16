@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   
-  <img src="../images/logo.9d97ecdc029d2db586b3.png" alt="Logo" height="80">
+  <img src="https://raw.githubusercontent.com/langexchange/.github/main/images/logo.9d97ecdc029d2db586b3.png" alt="Logo" height="80">
 </div>
 
 
