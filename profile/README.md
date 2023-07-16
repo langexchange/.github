@@ -22,6 +22,8 @@ This project was developed as part of the graduation thesis course at Ho Chi Min
 - Tran Luong Vu: Backend developer.
 
 ## 3. Features
+### Features description video
+[![](https://i.ytimg.com/vi/-iyrVwogSs4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-iyrVwogSs4 "")
 ### Innovative features:
 1. Collaboratively correction: Language text on posts and personal messages (using in chatting app) can be corrected by another user in the community (such as grammar or semantic errors).
 2. Pronunciation assessment chatbot: helps assess pronunciation performance in almost all kinds of language. See more in the  [chatbot repo](https://github.com/langexchange/lec-chatbot).
