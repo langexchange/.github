@@ -60,6 +60,7 @@ We are also considering an enhanced recommendation system that can suggest frien
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
+- [RTKQuery](https://redux-toolkit.js.org/rtk-query/overview)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Router](https://reactrouter.com/)
 - [Ant Design](https://ant.design/)
