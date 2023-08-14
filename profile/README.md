@@ -79,6 +79,7 @@ We are also considering an enhanced recommendation system that can suggest frien
 | Celery worker        | Distributed worker | Python, Celery  |
 
 ### Data layer
+1. PostgreSql
 1. Kafka
 2. Redis
 3. GraphDb
