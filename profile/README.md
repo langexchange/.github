@@ -55,7 +55,7 @@ We are also considering an enhanced recommendation system that can suggest frien
 ![image](https://github.com/langexchange/.github/blob/main/images/architecture.png)
 
 
-# Tech stack
+## 5. Tech stack
 
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
@@ -71,3 +71,30 @@ We are also considering an enhanced recommendation system that can suggest frien
 - [Graph database(neo4j)](https://neo4j.com/)
 - [Relational database(Postgres)](https://www.postgresql.org/)
 - [.Net 5](https://dotnet.microsoft.com/en-us/)
+
+### User inrterface layer
+
+| Service       | Type                         | Tech              |
+|---------------|------------------------------|-------------------|
+| API Gateway   | API Gateway                  | .Net core         |
+| App Frontend  | Webserver                    | ReactJs, Nginx    |
+| Chat Frontend | Webserver                    | ConverseJs, Ngixn |
+| Reverse Proxy | Reverse Proxy, Load balancer | Nginx             |
+
+
+### Application layer
+| Service              | Type               | Tech            |
+|----------------------|--------------------|-----------------|
+| User service         | API Service        | C#, .Net Core   |
+| Admin service        | API Service        | C#, .Net Core   |
+| Uploader service     | API Service        | C#, .Net Core   |
+| Notification service | API Service        | C#, .Net Core   |
+| Chat service         | XMPP server        | Elang, Ejabberd |
+| Chathelper service   | API Service        | Python, Django  |
+| Chatbot              | Chat client        | Python, Slixmpp |
+| Celery worker        | Distributed worker | Python, Celery  |
+
+### Data layer
+1. Kafka
+2. Redis
+3. GraphDb
