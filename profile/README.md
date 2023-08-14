@@ -56,22 +56,6 @@ We are also considering an enhanced recommendation system that can suggest frien
 
 
 ## 5. Tech stack
-
-- [React](https://reactjs.org/)
-- [Redux](https://redux.js.org/)
-- [Redux Toolkit](https://redux-toolkit.js.org/)
-- [RTKQuery](https://redux-toolkit.js.org/rtk-query/overview)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React Router](https://reactrouter.com/)
-- [Ant Design](https://ant.design/)
-- [SCSS](https://sass-lang.com/)
-- [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
-- [Message queue(Kafka)](https://kafka.apache.org/)
-- [Graph database(neo4j)](https://neo4j.com/)
-- [Relational database(Postgres)](https://www.postgresql.org/)
-- [.Net 5](https://dotnet.microsoft.com/en-us/)
-
 ### User inrterface layer
 
 | Service       | Type                         | Tech              |
